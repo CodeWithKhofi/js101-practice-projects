@@ -4,7 +4,9 @@ This repository contains beginner-friendly JavaScript Projects I use to teach st
 
 ## Projects
 
-
+1. Scoreboard App
+👇
+https://github.com/CodeWithKhofi/js101-scoreboard-app
 
 
 
